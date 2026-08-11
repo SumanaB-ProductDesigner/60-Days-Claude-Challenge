@@ -1,4 +1,4 @@
-# 60-Days-Claude-Challenge
+# AI Personality Profile
 I tried something different today — I asked Claude (Anthropic's AI) to build me an "AI Personality Profile" based on how I actually work, think, and use AI. Not a personality quiz. An honest reflection of my process.
 What started as a simple prompt turned into one of the most interesting conversations I've had with an AI tool.
 The first draft Claude gave me was good — but not me. It assumed I brainstorm and loop through ideas non-linearly. I corrected it: I follow the design thinking process step by step, foundation-first. Empathise and Define get locked in early, and everything I build after that — no matter how advanced — stays anchored to that original idea. I don't scrap the foundation. I build on it.
